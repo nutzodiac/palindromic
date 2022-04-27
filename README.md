@@ -1,24 +1,19 @@
 # palindromic
 
-Install Node.js and NPM
+**Install Node.js and NPM**<br />
 
-https://nodejs.org/en/download/
-npm install -g npm
+https://nodejs.org/en/download/<br />
+npm install -g npm<br /><br />
 
+- **Check version**<br />
+node -v<br />
+npm -v<br /><br />
 
-Check version
-node -v
-npm -v
+- **Install express**<br />
+npm init<br />
+npm install express --no-save<br /><br />
 
-
-Install express
-npm init
-npm install express --no-save
-
-
-Build and run the project
-npm run build
-npm start
-npm run dev
-
-Open http://localhost:8081 to view it in the browser.
+- **Build and run the project**<br />
+npm run build<br />
+npm start<br />
+npm run dev<br />
